@@ -1,11 +1,11 @@
 {
-    "identifier": "com.robertjpayne.swiftstenciltemplates",
+    "identifier": "com.zwopple.swiftstenciltemplates",
     "name": "Swift Stencil Templates",
-    "organization": "Robert Payne",
+    "organization": "Zwopple Limited",
     "description": "Syntax highlighting and autocompletion for Swift Stencil template files.",
     "version": "1.0",
     "categories": ["languages"],
-    "repository": "https://github.com/robertjpayne/SwiftStencilTemplates.novaextension",
-    "bugs": "https://github.com/robertjpayne/SwiftStencilTemplates.novaextension/issues",
+    "repository": "https://github.com/zwopple/SwiftStencilTemplates.novaextension",
+    "bugs": "https://github.com/zwopple/SwiftStencilTemplates.novaextension/issues",
     "license": "MIT"
 }
